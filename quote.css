@@ -1,0 +1,60 @@
+/*CONTAINER BACKGROUND WITH SAKURA*/
+
+.fonas {
+    /*    background-color: #DF8787;*/
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url(http://www.rabstol.net/uploads/gallery/main/473/rabstol_net_sakura_06.jpg);
+    filter: grayscale(20%);
+    border-radius: 10px;
+    /*    filter: blur(1px);*/
+}
+
+/*QUOTES AND CLICK FONTS*/
+
+#result,
+.clickbut {
+    font-family: 'Eczar', serif;
+    font-size: 20px;
+}
+
+/*2 BLACK IMAGES*/
+
+#imgquote {
+    height: 30%;
+}
+
+#imgquote2 {
+    height: 40%;
+    padding-bottom: 3%;
+    padding-top: 10%;
+}
+
+/*BUTTONS SPACE FROM QUOTE*/
+
+.buttons {
+    padding-top: 7%;
+}
+
+/*PINK BACKGROUND FOR QUOTES AND BUTTONS*/
+
+.citatosfonas {
+    background-color: #DF8787;
+    align-content: center;
+    /*    border-top: 5%;*/
+    border-radius: 10px;
+    height: 550px;
+    /*    padding-bottom: 10px;*/
+    /*    padding-top: 30px; */
+}
+
+/*SOCIAL NETWORK BUTTONS*/
+
+.social {
+    padding-top: 5%;
+}
+
+footer {
+    font-size: 16px;
+    font-weight: 300;
+}
